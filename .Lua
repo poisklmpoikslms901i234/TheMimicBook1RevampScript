@@ -1,5 +1,4 @@
--- Thx For Support Poom Hub And Use My Script This script is book 1 revamp code i make it and 
-release now --
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
